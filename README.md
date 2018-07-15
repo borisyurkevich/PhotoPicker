@@ -20,4 +20,4 @@ way to upload single image is using Safari.
 
 This proof of concept demonstrates how easy is to use native `UIImagePicker`.
 
-[1]: UI.png
+[1]: ui.png
